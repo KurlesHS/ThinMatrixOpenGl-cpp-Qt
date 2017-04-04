@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>shaders/shader.frag</file>
+        <file>shaders/shader.vert</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>resources/textures/t256_256.png</file>
+        <file>resources/textures/stallTexture.png</file>
+        <file>resources/textures/white.png</file>
+    </qresource>
+    <qresource prefix="/models">
+        <file>resources/models/stall.obj</file>
+        <file>resources/models/dragon.obj</file>
+    </qresource>
+</RCC>
